@@ -11,7 +11,7 @@ class ToDo {
 
   static List<ToDo> todosList() {
     return [
-      ToDo(id: '1', todoText: 'Morning Exercises', isDone: true),
+      ToDo(id: '1', todoText: 'Morning ', isDone: true),
       ToDo(id: '2', todoText: 'Breakfast', isDone: true),
       ToDo(id: '3', todoText: 'Programming', isDone: true),
       ToDo(id: '4', todoText: 'Lunch With Girlfried', isDone: true),
